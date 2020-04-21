@@ -1,4 +1,6 @@
 # Add your code here
+require 'pry'
+
 class Dog
     
     # class variables
@@ -30,4 +32,3 @@ class Dog
         end
     end
 end
-
